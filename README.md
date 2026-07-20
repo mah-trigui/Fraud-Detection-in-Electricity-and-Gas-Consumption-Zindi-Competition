@@ -3,7 +3,9 @@
 This competition is hosted on Zindi, a machine learning platform for data science challenges.  
 Here is the link to the competition: [Fraud Detection in Electricity and Gas Consumption Challenge 🌾 - AI Hack Tunisia](https://zindi.global/competitions/fraud-detection-in-electricity-and-gas-consumption-challenge)
 
+Ranked in the TOP 7%
 Ranked 6th position (20 continuous hours, only 54 succeed to submit among 191 competitors)!
+
 
 ---
 
